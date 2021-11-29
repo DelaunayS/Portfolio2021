@@ -1,13 +1,37 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@charset "UTF-8";
+
+/*------------police-----------*/
+@font-face {
+  font-family: 'icomoonregular';
+  src: url("../src/font/icomoon-webfont.woff2") format("woff2"), url("../src/font/icomoon-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+.icomoonregular {
+  font-family: 'icomoonregular';  
+  font-weight: 300;
+} 
+
+html{ 
+  background-color: #212529;
+  width:100vw; 
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+.cursorPointer {
+  cursor: pointer;
+}
+
+.cursorContext {
+  cursor: context-menu;
+}
+
+/*------root------*/
+#root {
+  margin:auto;
+  background-color: #212529;
+  font-family: Lato;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
