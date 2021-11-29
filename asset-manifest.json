@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Portfolio2021/static/css/main.e7684ee6.chunk.css",
+    "main.js": "/Portfolio2021/static/js/main.d239f7ef.chunk.js",
+    "main.js.map": "/Portfolio2021/static/js/main.d239f7ef.chunk.js.map",
+    "runtime-main.js": "/Portfolio2021/static/js/runtime-main.82283279.js",
+    "runtime-main.js.map": "/Portfolio2021/static/js/runtime-main.82283279.js.map",
+    "static/css/2.383c0125.chunk.css": "/Portfolio2021/static/css/2.383c0125.chunk.css",
+    "static/js/2.c78de5bb.chunk.js": "/Portfolio2021/static/js/2.c78de5bb.chunk.js",
+    "static/js/2.c78de5bb.chunk.js.map": "/Portfolio2021/static/js/2.c78de5bb.chunk.js.map",
+    "index.html": "/Portfolio2021/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/Portfolio2021/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.e7684ee6.chunk.css.map": "/Portfolio2021/static/css/main.e7684ee6.chunk.css.map",
+    "static/js/2.c78de5bb.chunk.js.LICENSE.txt": "/Portfolio2021/static/js/2.c78de5bb.chunk.js.LICENSE.txt",
+    "static/media/ApercuSelectionPartie.05cae538.webp": "/Portfolio2021/static/media/ApercuSelectionPartie.05cae538.webp",
+    "static/media/DonneesD3.e0948f89.webp": "/Portfolio2021/static/media/DonneesD3.e0948f89.webp",
+    "static/media/Maternelle.defcaec6.webp": "/Portfolio2021/static/media/Maternelle.defcaec6.webp",
+    "static/media/Meteo.a8b36d72.webp": "/Portfolio2021/static/media/Meteo.a8b36d72.webp",
+    "static/media/TP.39494c36.webp": "/Portfolio2021/static/media/TP.39494c36.webp",
+    "static/media/TicTacToe.e577450a.webp": "/Portfolio2021/static/media/TicTacToe.e577450a.webp",
+    "static/media/Wikipedia.7b1d90f4.webp": "/Portfolio2021/static/media/Wikipedia.7b1d90f4.webp",
+    "static/media/index.css": "/Portfolio2021/static/media/icomoon-webfont.9287e930.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82283279.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.c78de5bb.chunk.js",
+    "static/css/main.e7684ee6.chunk.css",
+    "static/js/main.d239f7ef.chunk.js"
+  ]
+}
